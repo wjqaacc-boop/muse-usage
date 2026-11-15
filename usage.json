@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T20:00:31+08:00",
-  "updated_label": "11月15日 20:00",
+  "updated_at": "2026-11-15T22:54:33+08:00",
+  "updated_label": "11月15日 22:54",
   "services": [
     {
       "name": "Muse",
       "remaining_pct": 0,
       "reset_at": "2026-11-19T21:13:00+08:00",
       "reset_label": "11月19日 21:13",
-      "days_left": 4,
+      "days_left": 3,
       "extra_remaining_pct": 98,
       "extra_left": "29B"
     }
